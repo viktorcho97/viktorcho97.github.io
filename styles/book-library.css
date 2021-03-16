@@ -13,13 +13,15 @@
 }
 
 #menu a {
+	font-size: 20px;
+	color: #8B0000;
     text-decoration: none;
     padding: 5px 10px;
     border-radius: 5px;
 }
 
 #menu a:hover {
-    background: #BBB;
+    background: #8FBC8F;
 }
 
 main>section {
